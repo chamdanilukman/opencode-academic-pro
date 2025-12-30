@@ -22,6 +22,24 @@
     },
     "research-methodologist": {
       "model": "opencode/glm-4.7"
+    },
+    "spss-analyst": {
+      "model": "opencode/glm-4.7"
+    },
+    "r-statistician": {
+      "model": "opencode/glm-4.7"
+    },
+    "smartpls-expert": {
+      "model": "opencode/glm-4.7"
+    },
+    "nvivo-analyst": {
+      "model": "opencode/glm-4.7"
+    },
+    "excel-analyst": {
+      "model": "opencode/glm-4.7"
+    },
+    "survey-designer": {
+      "model": "opencode/glm-4.7"
     }
   }
 }
